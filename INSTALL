@@ -31,7 +31,7 @@
               Apache on FreeBSD versions before 5.4-RELEASE. If you wish
               to try a threaded Apache on an earlier version of FreeBSD,
               use the --enable-threads parameter to ./configure in
-              addition to the --with-mpm parameter.
+              addition to the --with-mpm param
 
             * If you are building directly from Subversion on Mac OS X
               (Darwin), make sure to use GNU Libtool 1.4.2 or newer. All
